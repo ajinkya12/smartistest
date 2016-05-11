@@ -1,0 +1,153 @@
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\ApplicationInsights.config
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\csc.exe
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\vbc.exe
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\SmartIsAPI.dll.config
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\SmartIsAPI.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\SmartIsAPI.pdb
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Newtonsoft.Json.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\System.Web.Http.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Newtonsoft.Json.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\System.Web.Http.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\obj\Debug\SmartIsAPI.csprojResolveAssemblyReference.cache
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\obj\Debug\SmartIsAPI.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\obj\Debug\SmartIsAPI.pdb
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Unity.WebApi.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.Unity.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\ApplicationInsights.config
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\csc.exe
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\System.Collections.Immutable.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\System.Reflection.Metadata.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\vbc.exe
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\VBCSCompiler.exe
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\VBCSCompiler.exe.config
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\SmartIsAPI.dll.config
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\SmartIsAPI.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\SmartIsAPI.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.DependencyCollector.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.Web.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.WindowsServer.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.ApplicationInsights.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Newtonsoft.Json.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\System.Net.Http.Formatting.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.WebHost.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Unity.WebApi.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.DependencyCollector.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.Web.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.WindowsServer.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.ApplicationInsights.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\Newtonsoft.Json.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\System.Net.Http.Formatting.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.WebHost.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\obj\Debug\SmartIsAPI.csprojResolveAssemblyReference.cache
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\obj\Debug\SmartIsAPI.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI\obj\Debug\SmartIsAPI.pdb
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\ApplicationInsights.config
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\csc.exe
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\vbc.exe
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\SmartIsAPI.dll.config
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\SmartIsAPI.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\SmartIsAPI.pdb
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.Web.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Newtonsoft.Json.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Unity.WebApi.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.Web.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\Newtonsoft.Json.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\obj\Debug\SmartIsAPI.csprojResolveAssemblyReference.cache
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\obj\Debug\SmartIsAPI.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI\obj\Debug\SmartIsAPI.pdb

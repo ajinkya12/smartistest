@@ -1,0 +1,99 @@
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.Tests.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.Tests.pdb
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.pdb
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.dll
+C:\Users\ramanda\Documents\Visual Studio 2015\Projects\Hackathon\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\ApplicationInsights.config
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\csc.exe
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\vbc.exe
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.Tests.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.Tests.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.csprojResolveAssemblyReference.cache
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Unity.WebApi.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\VNUNEPC\Users\vnune\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.Tests.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.Tests.pdb
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Unity.WebApi.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\SmartIsAPI.pdb
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.dll
+C:\Users\adhumale\Documents\Ionic_Apps\SmartIsAPI.Tests\obj\Debug\SmartIsAPI.Tests.pdb
